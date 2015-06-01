@@ -1,4 +1,4 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
 <title>contenido de un div a un textarea</title>
@@ -24,5 +24,3 @@ jQuery(function(){
 </body>
 
 </html> 
-
-
